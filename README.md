@@ -72,15 +72,64 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
+interações com o lovable:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+> Cria um app de Finanças Pessoais com base no seguinte PRD (Product Requiments Document): (PRD)
 
+>Tentei cria uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeito a reconheceu, poderia verificar? Além disso, onde vejo os graficos e extrato?
+
+> Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
+
+ Resultado Final no lovable: https://conversa-fin-amigo.lovable.app/
+
+ <<img width="1900" height="945" alt="image" src="https://github.com/user-attachments/assets/4f814684-08f5-48b9-9c64-47287d3d1c3e" />
+
+## 🧾 Resumo das Funcionalidades do App
+
+Este aplicativo de Finanças Pessoais Conversacional foi pensado para oferecer uma experiência simples, acessível e inteligente para quem deseja organizar seus gastos sem complicação.
+
+### 🔐 Autenticação
+- Tela de login com campos de **email** e **senha**.
+- Opção de **cadastro** para novos usuários.
+- Interface clara e acolhedora, com boas práticas de usabilidade.
+
+### 💬 Interface Conversacional
+- Interações por **chat em linguagem natural**, simulando uma conversa com um consultor financeiro.
+- Registro de gastos direto no chat (ex.: “gastei R$30 no restaurante”).
+
+### 🧠 Inteligência Financeira
+- **Classificação automática** das transações por categoria (alimentação, transporte, lazer etc.).
+- **Definição e acompanhamento de metas financeiras**.
+- Envio de **dicas personalizadas de economia** por um “Agente Financeiro Inteligente”.
+
+### 📊 Relatórios Visuais
+- Geração de **relatórios simples e personalizados** com gráficos e resumos dos gastos.
+- Visualização clara do progresso em relação às metas.
+
+### ♿ Design Universal
+- Interface acessível e inclusiva, pensada para funcionar bem para **todos os perfis de usuários**:
+  - Textos claros e linguagem simples.
+  - Botões grandes e fáceis de clicar.
+  - Contraste adequado para leitura.
+  - Navegação intuitiva e suporte a diferentes dispositivos.
+
+---
+
+> Este conjunto de funcionalidades foi estruturado com base nos princípios do **Vibe Coding** e no PRD revisado, priorizando clareza, empatia e criatividade na solução de problemas reais.
+
+ 
+
+## Reflexão
+
+### O que funcionou bem?
+o refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+
+### O que não funcionou como o esperado?  
+Esperava poder interagir mais vezes gratuitamete com o Lovable, mais as interações feita ja foram de grande valis para aprender mais sobre Vibe Coding.
+
+### O que aprendeu sobre conversar com IAs?
+Aprendi que é basicamente iqual a conversar com uma pessoas, mais detalhes e clareza voçê dá, melhor é a interação.
+ 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
